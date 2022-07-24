@@ -127,14 +127,13 @@
     .home-page .heading-content{
         position: relative;
         bottom: 10px;
-        width: 90%;
-        height: 100px;
+        width: 80%;
     }
     .heading-content p{
         font-size: 25px;
     }
 
     .heading-content h1{
-        font-size: 30px;
+        font-size: 35px;
     }
 }
