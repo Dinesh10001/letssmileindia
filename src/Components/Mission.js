@@ -1,4 +1,5 @@
 import React from "react";
+import clothes from "../clothes.jpg"
 import "./Mission.css";
 
 
@@ -25,7 +26,7 @@ function Mission() {
                         versions of Lorem Ipsum</p>
                 </div>
                 <div className="mission-pic">
-                <img src={process.env.PUBLIC_URL+"/Images/clothes.jpg"} alt="picture"></img>                 
+                <img src={clothes} alt="picture"></img>                 
                 </div>
             </div>
         </div>
