@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/letssmileindia/static/css/main.0bec7749.css",
+    "main.js": "/letssmileindia/static/js/main.a9eda945.js",
+    "static/media/iStock-538570416-696x464.jpg": "/letssmileindia/static/media/iStock-538570416-696x464.7b959811ccb8c27d0666.jpg",
+    "static/media/home-img.jpg": "/letssmileindia/static/media/home-img.7f9fa9e5e6c051520a1b.jpg",
+    "static/media/toys.jpg": "/letssmileindia/static/media/toys.e9eb39c88db81048072d.jpg",
+    "static/media/donate.jpg": "/letssmileindia/static/media/donate.05d3bd8ff76e5decdf2c.jpg",
+    "index.html": "/letssmileindia/index.html",
+    "main.0bec7749.css.map": "/letssmileindia/static/css/main.0bec7749.css.map",
+    "main.a9eda945.js.map": "/letssmileindia/static/js/main.a9eda945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bec7749.css",
+    "static/js/main.a9eda945.js"
+  ]
+}
