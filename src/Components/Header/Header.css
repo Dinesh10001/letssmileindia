@@ -88,22 +88,16 @@
     }
     .logo-content{
         position: relative;
-        right: 5%;
+        right: 3%;
         font-size: 25px;
     }
     .nav-items{
         display: none;
     }
     .header-btn{
-        position: relative;
-        top: 8px;
-        right:50px;
+       display:none;
     }
-    .header-btn button{
-        width: 100%;
-        font-size: 25px;
-        height: 35px;
-    }
+  
     .toggel{
         display: inline;
         width: 30px;
