@@ -1,3 +1,21 @@
+# Click on the link to view the website   https://dinesh10001.github.io/letssmileindia/
+# Here are some snapshots from this website
+
+![Screenshot (41)](https://user-images.githubusercontent.com/75086360/208247382-d26f13cd-9a8c-44ad-a1cb-da0bd97b920a.png)
+
+![Screenshot (43)](https://user-images.githubusercontent.com/75086360/208247418-cd59deae-8749-4273-8159-50d6fbd4b1d8.png)
+
+![Screenshot (44)](https://user-images.githubusercontent.com/75086360/208247422-a69630da-c87d-4b38-a9a7-049fe0dfcc08.png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/75086360/208247427-e2125b5a-830b-4d88-a96d-0e753bb69217.png)
+
+![Screenshot (48)](https://user-images.githubusercontent.com/75086360/208247430-0fd4a092-6046-4d42-b49d-00f6e5120fc2.png)
+
+# Here the video clip
+
+https://user-images.githubusercontent.com/75086360/208247442-b91cd6fe-88a2-493b-a958-40f8c2017eff.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
