@@ -26,7 +26,7 @@ function Mission() {
                         versions of Lorem Ipsum</p>
                 </div>
                 <div className="mission-pic">
-                <img src={clothes} alt="picture"></img>                 
+                <img src="Images/clothes.jpg" alt="picture"></img>                 
                 </div>
             </div>
         </div>
